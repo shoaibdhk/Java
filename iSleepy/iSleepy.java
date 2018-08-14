@@ -35,8 +35,8 @@ public class iSleepy {
 		System.out.println("Average number of hours slept per night: " + average);
 		System.out.println("\nAccording to the NSF, last week, you slept:\n");
 		System.out.println(rec + ((rec==1)? " night ":" nights ") + "of \"recommended\" sleep.");
-		System.out.println(app + ((app==1)? " night ":" nights ") + "of \"recommended\" sleep.");
-		System.out.println(notRec + ((notRec==1)? " night ":" nights ") + "of \"recommended\" sleep.");
+		System.out.println(app + ((app==1)? " night ":" nights ") + "of \"appropriate\" sleep.");
+		System.out.println(notRec + ((notRec==1)? " night ":" nights ") + "of \"not recommended\" sleep.");
 		
 	}
 
