@@ -1,4 +1,4 @@
-package edu.orangecoastcollege.cs170.ssharif4.ic17;
+
 
 import java.util.Scanner;
 
