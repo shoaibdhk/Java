@@ -1,2 +1,2 @@
 # Java
-This is my Java projects that I have learned.
+These are my Java projects that I have learned.
