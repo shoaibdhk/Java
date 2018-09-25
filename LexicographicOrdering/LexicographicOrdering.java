@@ -8,7 +8,7 @@ public class LexicographicOrdering
         String s1, s2, s3, max, med, min;
         Scanner consoleScanner = new Scanner(System.in);
 
-        System.out.println("Please enter 3 strings (in any order):");
+        System.out.println("Please enter 3 strings or numbers (in any order):");
         s1 = consoleScanner.next();
         s2 = consoleScanner.next();
         s3 = consoleScanner.next();
